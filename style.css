@@ -266,11 +266,11 @@ body {
     }
 }
 
-@media only screen and (max-width: 414px) {
+/* @media only screen and (max-width: 414px) {
     .svg-buble-left {
         width: 414px;
     }
-  }
+  } */
 
 .offer-item:hover {
     border: 4px solid #FFFFFF;
